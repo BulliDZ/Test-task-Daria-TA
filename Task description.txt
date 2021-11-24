@@ -1,0 +1,19 @@
+Preconditions:
+1) Have a GITHUB account
+2) Have a link provided to you to upload your code
+3) When completed make sure to push your code to GitHub repository (or edit a file inside github repo) that was provided to you
+4) If something is ambiguous and unclear feel free to contact the person who provided this task to you
+
+TASK:
+    I) Create an automated test case that verifies that an item can be added to the basket on Rozetka web site:
+        1) Go to main page Rozetka
+        2) Find an item
+        3) Add an item to the basket
+        4) Think of asserts that would verify distinctly that an item is in the basket
+
+    II) Write a check-list for testing a basket on Rozetka website
+
+    NOTE:
+    * You can google the things you don't know
+    * Make sure you have Chrome browser and chromedriver installed before writing TC
+
